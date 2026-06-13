@@ -1,16 +1,155 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Waseem Shaik</h1>
+<h3 align="center">AI & Data Science Student | AWS Certified Cloud Practitioner | Cloud & Full Stack Developer</h3>
 
-<!--
-**waseem2660/waseem2660** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/waseem2660">
+    <img src="https://komarev.com/ghpvc/?username=waseem2660&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+🎓 B.Tech in Artificial Intelligence & Data Science at KL University
+
+📊 CGPA: **9.27/10**
+
+☁️ AWS Certified Cloud Practitioner
+
+💡 Passionate about Cloud Computing, AI, Machine Learning, Data Science, and Full Stack Development
+
+🔭 Currently working on Cloud-Native and Serverless Applications
+
+🌱 Learning DevOps, Advanced AWS Services, and Agentic AI
+
+📫 Reach me at: **skmdwaseem58@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/waseem-shaik" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://github.com/waseem2660" target="blank">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c" />
+</p>
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,react,nodejs,express,mongodb" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,git,github" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman" />
+</p>
+
+---
+
+---
+
+## 🏆 Certifications
+
+✔ AWS Certified Cloud Practitioner
+
+✔ IBM Python Certification
+
+✔ Salesforce AI Associate
+
+---
+
+## 💼 Experience
+
+### Data Science Intern
+**Prodigy InfoTech** | May 2024 - Jun 2024
+
+- Worked on Python and Excel-based projects.
+- Performed Exploratory Data Analysis.
+- Built visual reports and dashboards.
+- Applied data science techniques on real-world datasets.
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI-Powered Educational Chatbot Using RAG
+
+- Developed a Retrieval-Augmented Generation (RAG) chatbot.
+- Implemented using AWS Serverless Architecture.
+- GPT-OSS-20B LLM integration.
+- MongoDB Atlas Vector Search for contextual retrieval.
+
+**Tech Stack:** AWS, Python, MongoDB Atlas, Vector Search, LLM
+
+---
+
+### 🎓 Student Online Course Management System
+
+- Student registration and course enrollment.
+- Progress tracking and communication system.
+- Full-stack MERN architecture.
+
+**Tech Stack:** React, Node.js, Express.js, MongoDB
+
+---
+
+### 🛒 E-commerce Price Comparison Tool
+
+- Built using AWS Serverless Services.
+- Aggregates product prices from multiple stores.
+- Optimized for scalability and low latency.
+
+**Tech Stack:** AWS S3, Lambda, API Gateway, DynamoDB
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=waseem2660&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=waseem2660&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waseem2660&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+
+
+<p align="center">
+⭐ If you like my work, consider following me and checking out my repositories.
+</p>
