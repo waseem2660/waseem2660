@@ -30,14 +30,17 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/waseem-shaik" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<a href="mailto:skmdwaseem58@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/waseem2660" target="blank">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
+<a href="https://linkedin.com/in/waseem-shaik">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-</p>
+
+<a href="https://github.com/waseem2660">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
@@ -74,28 +77,6 @@
 </p>
 
 ---
-
----
-
-## 🏆 Certifications
-
-✔ AWS Certified Cloud Practitioner
-
-✔ IBM Python Certification
-
-✔ Salesforce AI Associate
-
----
-
-## 💼 Experience
-
-### Data Science Intern
-**Prodigy InfoTech** | May 2024 - Jun 2024
-
-- Worked on Python and Excel-based projects.
-- Performed Exploratory Data Analysis.
-- Built visual reports and dashboards.
-- Applied data science techniques on real-world datasets.
 
 ---
 
