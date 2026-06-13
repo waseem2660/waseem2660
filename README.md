@@ -2,10 +2,9 @@
 <h3 align="center">AI & Data Science Student | AWS Certified Cloud Practitioner | Cloud & Full Stack Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/waseem2660">
-    <img src="https://komarev.com/ghpvc/?username=waseem2660&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cloud+Enthusiast;Data+Analytics+Explorer;AWS+%7C+Power+BI;Always+Learning+New+Technologies&font=Poppins&center=true&width=700&height=50&color=36BCF7&vCenter=true&pause=1000&size=25" />
 </p>
+
 
 
 ## 🚀 About Me
@@ -115,16 +114,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=waseem2660&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=waseem2660&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=waseem2660&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=waseem2660&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waseem2660&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waseem2660&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
