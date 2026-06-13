@@ -20,7 +20,6 @@
 
 🔭 Currently working on Cloud-Native and Serverless Applications
 
-🌱 Learning DevOps, Advanced AWS Services, and Agentic AI
 
 📫 Reach me at: **skmdwaseem58@gmail.com**
 
